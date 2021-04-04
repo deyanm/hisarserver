@@ -148,13 +148,15 @@
     "places": [
         {
             "id": 1,
-            "name": "Хисаря",
-            "address": "Кромлех край с. Старо Железаре"
+            "name": "Кромлех",
+            "address": "край с. Старо Железаре, Хисаря",
+            "image_url": "https://lh3.googleusercontent.com/proxy/v7-eTEUL-ubCn_n0XTruuEx80x6Mb2K7fyzW6Z8VX3IvpJ2WYey7X4P0XCyjH5Y2oJCcoVm_UkfCJYk6bWhG6-YWDhhoWoET59WE8HZmDh75gg"
         },
         {
             "id": 1,
-            "name": "Текучи",
-            "address": "Пироборидава"
+            "name": "Пироборидава",
+            "address": "Текучи, Румъния",
+            "image_url": "http://community.fansshare.com/pic119/w/piroboridava/1200/10399_piroboridava.jpg"
         }
     ]
 }
