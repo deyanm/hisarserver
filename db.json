@@ -1,14 +1,160 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "hotels": [
+        {
+            "id": 1,
+            "place_id": 1,
+            "maxPricePerNight": 46,
+            "maxPrice": 138,
+            "photoCount": 50,
+            "guestScore": 63,
+            "address": "ул. Генерал Гурко 1, 4180 Хисаря, България",
+            "minPriceTotal": 40,
+            "price": 13,
+            "name": "СПА Хотел Хисар",
+            "popularity": 47,
+            "location": {
+                "lon": 98.39146,
+                "lat": 7.878922
+            },
+            "stars": 3,
+            "rooms": [
+                {
+                    "options": {
+                        "available": 5,
+                        "deposit": true,
+                        "refundable": false,
+                        "breakfast": false
+                    },
+                    "type": "",
+                    "tax": 0,
+                    "desc": "Стандартна двойна стая с две отделни легла",
+                    "agencyName": "booking.com",
+                    "agencyId": "43",
+                    "total": 40,
+                    "price": 250
+                }
+            ],
+            "rating": 63
+        },
+        {
+            "id": 2,
+            "place_id": 1,
+            "maxPricePerNight": 46,
+            "maxPrice": 138,
+            "photoCount": 50,
+            "guestScore": 63,
+            "address": "16 Balkan Str., 4180 Хисаря, България",
+            "minPriceTotal": 40,
+            "price": 13,
+            "name": "Уелнес Хотел Си Комфорт",
+            "popularity": 47,
+            "location": {
+                "lon": 98.39146,
+                "lat": 7.878922
+            },
+            "stars": 3,
+            "rooms": [
+                {
+                    "options": {
+                        "available": 5,
+                        "deposit": true,
+                        "refundable": false,
+                        "breakfast": false
+                    },
+                    "type": "",
+                    "tax": 0,
+                    "desc": "Суит с 1 спалня",
+                    "agencyName": "booking.com",
+                    "agencyId": "43",
+                    "total": 40,
+                    "price": 240
+                }
+            ],
+            "rating": 63
+        },
+        {
+            "id": 3,
+            "place_id": 1,
+            "maxPricePerNight": 46,
+            "maxPrice": 138,
+            "photoCount": 50,
+            "guestScore": 63,
+            "address": "бул. Гурко 3, 4180 Хисаря, България",
+            "minPriceTotal": 40,
+            "price": 13,
+            "name": "СПА Хотел Аугуста",
+            "popularity": 47,
+            "location": {
+                "lon": 98.39146,
+                "lat": 7.878922
+            },
+            "stars": 3,
+            "rooms": [
+                {
+                    "options": {
+                        "available": 5,
+                        "deposit": true,
+                        "refundable": false,
+                        "breakfast": false
+                    },
+                    "type": "",
+                    "tax": 0,
+                    "desc": "Стая с две отделни легла",
+                    "agencyName": "booking.com",
+                    "agencyId": "43",
+                    "total": 40,
+                    "price": 180
+                }
+            ],
+            "rating": 63
+        },
+        {
+            "id": 4,
+            "place_id": 1,
+            "maxPricePerNight": 46,
+            "maxPrice": 138,
+            "photoCount": 50,
+            "guestScore": 63,
+            "address": "ул. Бели Брези 1, 4180 Хисаря, България",
+            "minPriceTotal": 40,
+            "price": 13,
+            "name": "Сана Спа Хотел",
+            "popularity": 47,
+            "location": {
+                "lon": 98.39146,
+                "lat": 7.878922
+            },
+            "stars": 3,
+            "rooms": [
+                {
+                    "options": {
+                        "available": 5,
+                        "deposit": true,
+                        "refundable": false,
+                        "breakfast": false
+                    },
+                    "type": "",
+                    "tax": 0,
+                    "desc": "Джуниър суит",
+                    "agencyName": "booking.com",
+                    "agencyId": "43",
+                    "total": 40,
+                    "price": 290
+                }
+            ],
+            "rating": 63
+        }
+    ],
+    "places": [
+        {
+            "id": 1,
+            "name": "Хисаря",
+            "address": "Кромлех край с. Старо Железаре"
+        },
+        {
+            "id": 1,
+            "name": "Текучи",
+            "address": "Пироборидава"
+        }
+    ]
 }
