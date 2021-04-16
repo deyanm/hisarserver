@@ -16,23 +16,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Стандартна двойна стая с две отделни легла",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 250
-                }
-            ],
             "rating": 63
         },
         {
@@ -50,23 +33,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Суит с 1 спалня",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 240
-                }
-            ],
             "rating": 63
         },
         {
@@ -84,23 +50,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Стая с две отделни легла",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 180
-                }
-            ],
             "rating": 63
         },
         {
@@ -118,23 +67,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Джуниър суит",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 290
-                }
-            ],
             "rating": 63
         },
         {
@@ -152,23 +84,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Double Room with Private Bathroom",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 100
-                }
-            ],
             "rating": 63
         },
         {
@@ -186,23 +101,6 @@
                 "lat": 7.878922
             },
             "stars": 3,
-            "rooms": [
-                {
-                    "options": {
-                        "available": 5,
-                        "deposit": true,
-                        "refundable": false,
-                        "breakfast": false
-                    },
-                    "type": "",
-                    "tax": 0,
-                    "desc": "Double Room with Private Bathroom",
-                    "agencyName": "booking.com",
-                    "agencyId": "43",
-                    "total": 40,
-                    "price": 100
-                }
-            ],
             "rating": 63
         },
         {
