@@ -1,150 +1,150 @@
 {
-    "db_version": 1, 
-    "poi": [
-        {
-            "id": 1,
-            "placeId": 1,
-            "type": "hotel",
-            "maxPricePerNight": 46,
-            "maxPrice": 138,
-            "address": "ул. Генерал Гурко 1, 4180 Хисаря, България",
-            "price": 13,
-            "name": "СПА Хотел Хисар",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 2,
-            "placeId": 1,
-            "type": "hotel",
-            "maxPricePerNight": 46,
-            "maxPrice": 138,
-            "address": "16 Balkan Str., 4180 Хисаря, България",
-            "price": 13,
-            "name": "Уелнес Хотел Си Комфорт",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 3,
-            "placeId": 1,
-            "type": "hotel",
-            "maxPricePerNight": 46,
-            "maxPrice": 138,
-            "address": "бул. Гурко 3, 4180 Хисаря, България",
-            "price": 13,
-            "name": "СПА Хотел Аугуста",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 4,
-            "placeId": 1,
-            "type": "hotel",
-            "maxPricePerNight": 46,
-            "maxPrice": 138,
-            "address": "ул. Бели Брези 1, 4180 Хисаря, България",
-            "price": 13,
-            "name": "Сана Спа Хотел",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 5,
-            "placeId": 2,
-            "type": "hotel",
-            "maxPricePerNight": 100,
-            "maxPrice": 150,
-            "address": "Tecuci, Transilvaniei 7, 805300 Tecuci, Romania",
-            "price": 13,
-            "name": "Pensiunea Kristall Tecuci",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 6,
-            "placeId": 2,
-            "type": "hotel",
-            "maxPricePerNight": 46,
-            "maxPrice": 138,
-            "address": "Str. Mihai Eminescu , 805300 Tecuci, Romania",
-            "price": 13,
-            "name": "Hotel Sophia",
-            "popularity": 47,
-            "location": {
-                "lon": 98.39146,
-                "lat": 7.878922
-            },
-            "stars": 3,
-            "rating": 63
-        },
-        {
-            "id": 7,
-            "placeId": 1,
-            "type": "restaurant",
-            "address": "бул. Генерал Гурко 12, 4180 Център, Хисаря",
-            "name": "Ресторант Национал",
-            "phone": "087 962 5800",
-            "popularity": 47,
-            "location": {
-                "lat": 42.54702207091894,
-                "lon": 24.711823734513107
-            },
-            "stars": 3,
-            "options": {
-                "available": 5,
-                "breakfast": true,
-                "lunch": false,
-                "dinner": false
-            },
-            "rating": 63
-        }
-    ],
-    "places": [
-        {
-            "id": 1,
-            "name": "Кромлех",
-            "address": "край с. Старо Железаре, Хисаря",
-            "location": {
-                "lat": 42.43856232977407,
-                "lon": 24.658853021511128
-            },
-            "image_url": "https://lh3.googleusercontent.com/proxy/v7-eTEUL-ubCn_n0XTruuEx80x6Mb2K7fyzW6Z8VX3IvpJ2WYey7X4P0XCyjH5Y2oJCcoVm_UkfCJYk6bWhG6-YWDhhoWoET59WE8HZmDh75gg"
-        },
-        {
-            "id": 2,
-            "name": "Пироборидава",
-            "address": "Текучи, Румъния",
-            "location": {
-                "lat": 45.99599243547136,
-                "lon": 27.248882582743835
-            },
-            "image_url": "http://community.fansshare.com/pic119/w/piroboridava/1200/10399_piroboridava.jpg"
-        }
-    ]
+  "db_version": 1,
+  "poi": [
+    {
+      "id": 1,
+      "placeId": 1,
+      "type": "hotel",
+      "maxPricePerNight": 46,
+      "maxPrice": 138,
+      "address": "ул. Генерал Гурко 1, 4180 Хисаря, България",
+      "price": 13,
+      "name": "СПА Хотел Хисар",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 2,
+      "placeId": 1,
+      "type": "hotel",
+      "maxPricePerNight": 46,
+      "maxPrice": 138,
+      "address": "16 Balkan Str., 4180 Хисаря, България",
+      "price": 13,
+      "name": "Уелнес Хотел Си Комфорт",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 3,
+      "placeId": 1,
+      "type": "hotel",
+      "maxPricePerNight": 46,
+      "maxPrice": 138,
+      "address": "бул. Гурко 3, 4180 Хисаря, България",
+      "price": 13,
+      "name": "СПА Хотел Аугуста",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 4,
+      "placeId": 1,
+      "type": "hotel",
+      "maxPricePerNight": 46,
+      "maxPrice": 138,
+      "address": "ул. Бели Брези 1, 4180 Хисаря, България",
+      "price": 13,
+      "name": "Сана Спа Хотел",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 5,
+      "placeId": 2,
+      "type": "hotel",
+      "maxPricePerNight": 100,
+      "maxPrice": 150,
+      "address": "Tecuci, Transilvaniei 7, 805300 Tecuci, Romania",
+      "price": 13,
+      "name": "Pensiunea Kristall Tecuci",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 6,
+      "placeId": 2,
+      "type": "hotel",
+      "maxPricePerNight": 46,
+      "maxPrice": 138,
+      "address": "Str. Mihai Eminescu , 805300 Tecuci, Romania",
+      "price": 13,
+      "name": "Hotel Sophia",
+      "popularity": 47,
+      "location": {
+        "lon": 98.39146,
+        "lat": 7.878922
+      },
+      "stars": 3,
+      "rating": 63
+    },
+    {
+      "id": 7,
+      "placeId": 1,
+      "type": "restaurant",
+      "address": "бул. Генерал Гурко 12, 4180 Център, Хисаря",
+      "name": "Ресторант Национал",
+      "phone": "087 962 5800",
+      "popularity": 47,
+      "location": {
+        "lat": 42.54702207091894,
+        "lon": 24.711823734513107
+      },
+      "stars": 3,
+      "options": {
+        "available": 5,
+        "breakfast": true,
+        "lunch": false,
+        "dinner": false
+      },
+      "rating": 63
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Кромлех",
+      "address": "край с. Старо Железаре, Хисаря",
+      "location": {
+        "lat": 42.43856232977407,
+        "lon": 24.658853021511128
+      },
+      "image_url": "https://lh3.googleusercontent.com/proxy/v7-eTEUL-ubCn_n0XTruuEx80x6Mb2K7fyzW6Z8VX3IvpJ2WYey7X4P0XCyjH5Y2oJCcoVm_UkfCJYk6bWhG6-YWDhhoWoET59WE8HZmDh75gg"
+    },
+    {
+      "id": 2,
+      "name": "Пироборидава",
+      "address": "Текучи, Румъния",
+      "location": {
+        "lat": 45.99599243547136,
+        "lon": 27.248882582743835
+      },
+      "image_url": "http://community.fansshare.com/pic119/w/piroboridava/1200/10399_piroboridava.jpg"
+    }
+  ]
 }
