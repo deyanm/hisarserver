@@ -1,7 +1,7 @@
 {
-  "versions": {
+  "versions": [
     "current" : 1
-  },
+  ],
   "poi": [
     {
       "id": 1,
