@@ -380,9 +380,9 @@
         },
         "mig": {},
         "pois": {
-          "sights": {},
-          "hotels": {},
-          "restaurants": {}
+          "sights": [],
+          "hotels": [],
+          "restaurants": []
         }
       }
     ]
@@ -410,9 +410,9 @@
           "contacts": "Grupul de inițiativă locală Hissarya\r\nHissarya, 23 Gen. Gurko Street\r\nPC: 4180\r\nTelefoane:\r\nPreședinte al Consiliului de administrație - +359884591013\r\nDirector executiv - +359884048235\r\nAsistent - +359884647501\r\nExpert în implementarea SWOMR - +359887072462\r\nBirou - +359884167592\r\ne-mail: mig.hisarya@abv.bg"
         },
         "pois": {
-          "sights": {},
-          "hotels": {},
-          "restaurants": {}
+          "sights": [],
+          "hotels": [],
+          "restaurants": []
         }
       },
       {
@@ -428,9 +428,9 @@
         },
         "mig": {},
         "pois": {
-          "sights": {},
-          "hotels": {},
-          "restaurants": {}
+          "sights": [],
+          "hotels": [],
+          "restaurants": []
         }
       }
     ]
@@ -458,9 +458,9 @@
           "contacts": "Hissarya Local Initiative Group\r\nHissarya, 23 Gen. Gurko Street\r\nPC: 4180\r\nPhones:\r\nChairman of the Management Board - +359884591013\r\nExecutive Director - +359884048235\r\nAssistant - +359884647501\r\nExpert on the implementation of SWOMR - +359887072462\r\nOffice - +359884167592\r\ne-mail: mig.hisarya@abv.bg \r\n"
         },
         "pois": {
-          "sights": {},
-          "hotels": {},
-          "restaurants": {}
+          "sights": [],
+          "hotels": [],
+          "restaurants": []
         }
       },
       {
@@ -476,9 +476,9 @@
         },
         "mig": {},
         "pois": {
-          "sights": {},
-          "hotels": {},
-          "restaurants": {}
+          "sights": [],
+          "hotels": [],
+          "restaurants": []
         }
       }
     ]
