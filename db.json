@@ -37,7 +37,11 @@
                 "lat": 42.50342306419906,
                 "lon": 24.71260214689407
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "momina_banq1.jpg",
+                "momina_banq2.jpg"
+              ]
             },
             {
               "id": 2,
@@ -51,7 +55,11 @@
                 "lat": 42.51187820032504,
                 "lon": 24.547063157713264
               },
-              "links": "https://hisar.bg/hisar/%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BA%D1%83%D0%BB%D1%82%D0%BE%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D1%81-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%BB/"
+              "links": "https://hisar.bg/hisar/%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BA%D1%83%D0%BB%D1%82%D0%BE%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D1%81-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%BB/",
+              "images": [
+                "starosel1.jpg",
+                "starosel2.jpg"
+              ]
             },
             {
               "id": 3,
@@ -65,7 +73,10 @@
                 "lat": 42.495733637214315,
                 "lon": 24.70321746535056
               },
-              "links": "https://museum.hisar.bg/"
+              "links": "https://museum.hisar.bg/",
+              "images": [
+                "grobnica.jpg"
+              ]
             },
             {
               "id": 4,
@@ -79,7 +90,10 @@
                 "lat": 42.49966420337795,
                 "lon": 24.703391250786616
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "izvor_momina_salza.jpg"
+              ]
             },
             {
               "id": 5,
@@ -93,7 +107,10 @@
                 "lat": 42.498675471053154,
                 "lon": 24.705893589254632
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "kamilite.jpg"
+              ]
             },
             {
               "id": 6,
@@ -107,7 +124,11 @@
                 "lat": 42.5028348706976,
                 "lon": 24.701789251613324
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "pantalejmon1.jpg",
+                "pantalejmon2.jpg"
+              ]
             },
             {
               "id": 7,
@@ -121,7 +142,11 @@
                 "lat": 42.51817909840186,
                 "lon": 24.692926382192105
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "sv_dimitar1.jpg",
+                "sv_dimitar2.jpg"
+              ]
             },
             {
               "id": 8,
@@ -135,7 +160,11 @@
                 "lat": 42.48565857798542,
                 "lon": 24.716293059486922
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "katolik_peter_pavel1.jpg",
+                "katolik_peter_pavel2.jpg"
+              ]
             },
             {
               "id": 9,
@@ -149,7 +178,11 @@
                 "lat": 42.50419571179015,
                 "lon": 24.703060856381676
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "stena1.jpg",
+                "stena2.jpg"
+              ]
             },
             {
               "id": 10,
@@ -163,7 +196,11 @@
                 "lat": 42.5013335746439,
                 "lon": 24.708862607320086
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "leten_teatar1.jpg",
+                "leten_teatar2.jpg"
+              ]
             },
             {
               "id": 11,
@@ -177,7 +214,10 @@
                 "lat": 42.501934928754345,
                 "lon": 24.703855869342277
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "kolonada.jpg"
+              ]
             },
             {
               "id": 12,
@@ -191,7 +231,10 @@
                 "lat": 42.50010803587477,
                 "lon": 24.703132197767204
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "amfiteatar.jpg"
+              ]
             },
             {
               "id": 13,
@@ -205,7 +248,11 @@
                 "lat": 42.56408053015844,
                 "lon": 24.565873987992006
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "kozq_gramada1.jpg",
+                "kozq_gramada2.jpg"
+              ]
             },
             {
               "id": 14,
@@ -219,7 +266,11 @@
                 "lat": 42.50231257337664,
                 "lon": 24.70639718626638
               },
-              "links": "www.museum.hisar.bg"
+              "links": "www.museum.hisar.bg",
+              "images": [
+                "archeology_museum1.jpg",
+                "archeology_museum2.jpg"
+              ]
             },
             {
               "id": 15,
@@ -233,7 +284,12 @@
                 "lat": 42.445150296244464,
                 "lon": 24.64896985372787
               },
-              "links": ""
+              "links": "",
+              "images": [
+                "traditions1.jpg",
+                "traditions2.jpg",
+                "traditions3.jpg"
+              ]
             }
           ],
           "hotels": [
