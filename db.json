@@ -39,8 +39,8 @@
               },
               "links": "",
               "images": [
-                "momina_banq1.jpg",
-                "momina_banq2.jpg"
+                "momina_banq1",
+                "momina_banq2"
               ]
             },
             {
@@ -57,8 +57,8 @@
               },
               "links": "https://hisar.bg/hisar/%D1%82%D1%80%D0%B0%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B8-%D0%BA%D1%83%D0%BB%D1%82%D0%BE%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D1%81-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%BB/",
               "images": [
-                "starosel1.jpg",
-                "starosel2.jpg"
+                "starosel1",
+                "starosel2"
               ]
             },
             {
@@ -75,7 +75,7 @@
               },
               "links": "https://museum.hisar.bg/",
               "images": [
-                "grobnica.jpg"
+                "grobnica"
               ]
             },
             {
@@ -92,7 +92,7 @@
               },
               "links": "",
               "images": [
-                "izvor_momina_salza.jpg"
+                "izvor_momina_salza"
               ]
             },
             {
@@ -109,7 +109,7 @@
               },
               "links": "",
               "images": [
-                "kamilite.jpg"
+                "kamilite"
               ]
             },
             {
@@ -126,8 +126,8 @@
               },
               "links": "",
               "images": [
-                "pantalejmon1.jpg",
-                "pantalejmon2.jpg"
+                "pantalejmon1",
+                "pantalejmon2"
               ]
             },
             {
@@ -144,8 +144,8 @@
               },
               "links": "",
               "images": [
-                "sv_dimitar1.jpg",
-                "sv_dimitar2.jpg"
+                "sv_dimitar1",
+                "sv_dimitar2"
               ]
             },
             {
@@ -162,8 +162,8 @@
               },
               "links": "",
               "images": [
-                "katolik_peter_pavel1.jpg",
-                "katolik_peter_pavel2.jpg"
+                "katolik_peter_pavel1",
+                "katolik_peter_pavel2"
               ]
             },
             {
@@ -180,8 +180,8 @@
               },
               "links": "",
               "images": [
-                "stena1.jpg",
-                "stena2.jpg"
+                "stena1",
+                "stena2"
               ]
             },
             {
@@ -198,8 +198,8 @@
               },
               "links": "",
               "images": [
-                "leten_teatar1.jpg",
-                "leten_teatar2.jpg"
+                "leten_teatar1",
+                "leten_teatar2"
               ]
             },
             {
@@ -216,7 +216,7 @@
               },
               "links": "",
               "images": [
-                "kolonada.jpg"
+                "kolonada"
               ]
             },
             {
@@ -233,7 +233,7 @@
               },
               "links": "",
               "images": [
-                "amfiteatar.jpg"
+                "amfiteatar"
               ]
             },
             {
@@ -250,8 +250,8 @@
               },
               "links": "",
               "images": [
-                "kozq_gramada1.jpg",
-                "kozq_gramada2.jpg"
+                "kozq_gramada1",
+                "kozq_gramada2"
               ]
             },
             {
@@ -268,8 +268,8 @@
               },
               "links": "www.museum.hisar.bg",
               "images": [
-                "archeology_museum1.jpg",
-                "archeology_museum2.jpg"
+                "archeology_museum1",
+                "archeology_museum2"
               ]
             },
             {
@@ -286,9 +286,9 @@
               },
               "links": "",
               "images": [
-                "traditions1.jpg",
-                "traditions2.jpg",
-                "traditions3.jpg"
+                "traditions1",
+                "traditions2",
+                "traditions3"
               ]
             }
           ],
