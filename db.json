@@ -317,7 +317,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://www.verso.bg/pictures/2020/09/28/54329/original.jpg",
+                "https://visithisarya.com/wp-content/uploads/2021/08/81332195-1024x683.jpg",
+                "https://grupovo.net/places/g_43226.jpg"
+              ]
             },
             {
               "id": 17,
@@ -334,7 +339,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1280x900/268520507.jpg?k=b281ffae3e083e68cccf69d176cfda994bf15cff50180c922eea4d0a793f0f2e&o=&hp=1",
+                "https://vipoferta.bg/uploads/catalog/7042/orig_70424997.jpg",
+                "https://cf.bstatic.com/xdata/images/hotel/max1280x900/14754725.jpg?k=bf42341427536905564344dfcaa1a53021ef191fc861c121b7924f2b748c8509&o=&hp=1"
+              ]
             },
             {
               "id": 18,
@@ -351,7 +361,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://visit.bg/symimages/v3/hotel/202/563a0524e3f0c.jpg",
+                "https://augustaspa.com/wp-content/uploads/2018/08/hotel-augusta-hisarya-basein-4.jpg",
+                "https://augustaspa.com/wp-content/uploads/2018/08/hotel-augusta-hisarya-basein-3.jpg"
+              ]
             },
             {
               "id": 19,
@@ -368,7 +383,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223506505.jpg?k=2d91e8f9b5e27378b7bdde655e0f02115bd9f83c7f549e303126eed94694b628&o=&hp=1",
+                "https://sanaspahotels.bg/slides/11.jpg",
+                "https://sanaspahotels.bg/slides/14.jpg"
+              ]
             },
             {
               "id": 20,
