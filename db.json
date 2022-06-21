@@ -405,7 +405,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://hoteltravel.s3.eu-central-1.amazonaws.com/e-cazare.ro/images/hotel-parc-tecuci-tecuci/large-image-hotel-hotel-parc-tecuci-1.jpg",
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342916352.jpg?k=729fed6a6f78144d82c914d04a9092647c7cdedd7854be8f75f5584ce0716a4b&o=&hp=1",
+                "https://q-xx.bstatic.com/xdata/images/hotel/840x460/342922870.jpg?k=0353aa993c0628bbabe8ea9e308df0c90f39aefe41e7c600bd32017de912169d&o="
+              ]
             },
             {
               "id": 21,
@@ -422,7 +427,12 @@
                 "lat": 7.878922
               },
               "stars": 3,
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://q-xx.bstatic.com/xdata/images/hotel/max500/65252529.jpg?k=56be81eedafb2257a950da3813b0b2e5c59dc7d8edeb5e60a94248376db57b98&o=",
+                "https://cdn-img.readytotrip.com/t/1024x768/content/e1/c7/e1c70bd21461319b97a525e76e51b7f10d0c816c.jpeg",
+                "https://cf.bstatic.com/xdata/images/hotel/max500/64204826.jpg?k=85a534b1e4555302b1e0ab0fe1567905ef954609244ac7d8573f751bd6fe7959&o=&hp=1"
+              ]  
             }
           ],
           "restaurants": [
@@ -445,7 +455,11 @@
                 "lunch": false,
                 "dinner": false
               },
-              "rating": 63
+              "rating": 63,
+              "images": [
+                "https://imgrabo.com/pics/guide/900x600/20201120140906_14619.jpeg",
+                "http://restorantite.bg/wp-content/uploads/2016/07/135158863169.jpg"
+              ]
             }
           ]
         }
