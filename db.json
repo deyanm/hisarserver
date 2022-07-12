@@ -655,7 +655,26 @@
           ]
         },
         "pois": {
-          "sights": [],
+          "sights": [
+          {
+              "id": 1,
+              "placeId": 1,
+              "type": "place",
+              "name": "Izvorul mineral \"Momina Banya\"",
+              "short_description": "Un izvor cu apă minerală pentru tratarea bolilor de rinichi etc. boli.",
+              "description": "Apa minerală din izvorul \"Momina Banya\" are cel mai mare conținut de radon și o temperatură de 47 de grade, ceea ce o face potrivită pentru tratarea bolilor renale-urologice și a bolilor aparatului locomotor. Apa este usor mineralizata, incolora si inodora si cu un gust placut. În 1932, a fost stabilit începutul balneoterapiei organizate în Bulgaria.\r\nNumele de \"Momina Banya\" este asociat cu o legendă din Evul Mediu, potrivit căreia fiicei guvernatorului local îi plăcea să se scalde primăvara. în afara zidurilor cetăţii. Dar odată ce orașul a fost atacat de inamici și porțile zidului cetății au fost închise. Fiica boierului și prietenii ei au rămas la izvor. Pentru a nu fi capturați, au preferat să se înece în primăvara caldă.",
+              "address": "reg. Plovdiv, orașul Hisarya, Parcul \"Momina Banya\" - lângă Administrația Municipală",
+              "location": {
+                "lat": 42.50342306419906,
+                "lon": 24.71260214689407
+              },
+              "links": "",
+              "images": [
+                "momina_banq1",
+                "momina_banq2"
+              ]
+            },
+          ],
           "hotels": [],
           "restaurants": []
         }
